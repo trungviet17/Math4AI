@@ -1,0 +1,10 @@
+name: cs197
+channels:
+  - defaults
+dependencies:
+  - python==3.9
+  - tqdm
+  - numpy
+  - pandas
+  - scipy
+prefix: C:\Users\Asus\anaconda3\envs\cs197
