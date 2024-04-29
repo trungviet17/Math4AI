@@ -32,6 +32,37 @@ Xong rồi đó
 ## License
 [MIT](LICENSE)
 
+# Math4AI
+Hello, I'm Trung from IAI-UET. In my free time, I created this repo to review mathematical concepts (algebra, calculus, convex, ...) for data science and AI.
+
+## Getting Started
+
+As mentioned above, if you're interested, just open it up and take a look. Don't expect any specific instructions :)
+
+However, I have tried to organize the folders neatly. The main learning materials are taken from the chapters in the book here: [link to book](Resource). The learning materials include a note with code for each chapter, solutions to end-of-chapter exercises (if the book has exercises), and illustrations (if available).
+
+## Installing
+
+After cloning, remember to import the requirements.txt file.
+
+Also remember to create an env or conda or something :)
+
+First, initialize the env (search for "conda" on Google)
+
+    python -m venv <env name>
+Install the requirements into the env
+
+    pip install -r requirements.txt
+That's it!
+
+## Authors
+
+**Trung Viet** - 
+    [If you find it useful, please give me a star](https://github.com/trungviet17)
+## License
+[MIT](LICENSE)
+
+
 
 
 
