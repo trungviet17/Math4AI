@@ -8,7 +8,7 @@ Như đã nói ở trên, nếu thích thì hãy mở ra mà xem đi đừng có
 Nhưng dù sao thì các folder mình đã cố gắng xếp rất gọn, các phần học chủ yếu được lấy từ các chương trong quyển sách [tại đây](Resource). Các phần học bao gồm một note kèm code của từng chương sách, giải bài tập cuối chương (nếu sách đó có bài tập) và ảnh minh hoạt (nếu có). 
 
 
-## Installing
+### Installing
 
 - Clone về thì nhớ import cái requirement.txt vô
 - Nhớ tạo  env or conda gì gì đó :) 
@@ -23,10 +23,6 @@ install cái requirement vô env
     pip install -r requirements.txt 
 
 Xong rồi đó 
-
-
-
-
 
 ## Authors
 
