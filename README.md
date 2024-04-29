@@ -16,18 +16,13 @@ Nhưng dù sao thì các folder mình đã cố gắng xếp rất gọn, các p
 
 Đầu tiên khởi tạo env (conda thì gg search nhé )
 
-    python -m env <tên env>
+    python -m venv <tên env>
 
 install cái requirement vô env 
 
     pip install -r requirements.txt 
 
 Xong rồi đó 
-
-
-
-
-
 ## Authors
 
   - **Trung Viet** - 
